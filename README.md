@@ -151,7 +151,7 @@ Each folder contains .csv and .txt exports of the collected data, suitable for E
 ## 📄 License & Credits
 
 Created: © 2025
-
+Author: Security Analyst
 License: Internal / Research Use Only
 
 ## 🧰 Recommended Usage Scenarios
