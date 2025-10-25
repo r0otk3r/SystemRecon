@@ -3,6 +3,9 @@ Full Computer Enumeration Toolkit
 ---------------------------------
 Comprehensive system, security, network, and forensic data collection for Windows systems.
 
+Author: Security Analyst
+Created: (c) 2025
+
 Usage: Run as Administrator for full functionality
 Output: .\Computer_Enumeration_<TIMESTAMP>\
 #>
