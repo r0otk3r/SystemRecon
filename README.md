@@ -7,7 +7,7 @@ Ideal for security analysts, incident responders, and forensic investigators who
 
 ## 📘 Overview
 
-The **Full Computer Enumeration Toolkit** is a PowerShell-based auditing and collection framework that gathers extensive details about a Windows machine — including hardware, processes, users, event logs, registry data, security settings, and forensic artifacts.
+The **Full Computer Enumeration Toolkit** is a PowerShell-based auditing and collection framework that gathers extensive details about a Windows machine  including hardware, processes, users, event logs, registry data, security settings, and forensic artifacts.
 
 It automatically generates organized reports into categorized folders for easy analysis and evidence preservation.
 
